@@ -1,0 +1,116 @@
+.h-center {
+  text-align: center;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F3F8FF;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  font-size: 6rem;
+  margin: 0.5rem auto;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0.5rem auto;
+}
+
+button {
+  background: #000000;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-variant: small-caps;
+  font-size: 20px;
+  padding: 0.7rem 4rem;
+  text-align: center;
+  -webkit-border-radius: 8px;
+  border-radius: 10px;
+  border-style: none;
+  margin: 5rem auto 0.5rem auto
+}
+
+.v-center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.emoji {
+  font-size: 40px;
+}
+
+.or {
+  position: absolute;
+  left: 35%;
+  top: 75%;
+}
+
+.silver {
+  position: absolute;
+  left: 80%;
+  top: 42%;
+}
+
+.bronze {
+  position: absolute;
+  left: 10%;
+  top: 20%;
+}
+
+.ballon1 {
+  position: absolute;
+  left: 18%;
+  top: 53%;
+}
+
+.ballon2 {
+  position: absolute;
+  left: 35%;
+  top: 11%;
+}
+
+.ballon3 {
+  position: absolute;
+  left: 67%;
+  top: 32%;
+}
+
+.ballon4 {
+  position: absolute;
+  left: 85%;
+  top: 81%;
+}
+
+.target1 {
+  position: absolute;
+  left: 28%;
+  top: 31%;
+}
+
+.target2 {
+  position: absolute;
+  left: 84%;
+  top: 11%;
+}
+
+.target3 {
+  position: absolute;
+  left: 12%;
+  top: 80%;
+}
+
+.crown {
+  position: absolute;
+  left: 70%;
+  top: 67%;
+}
+
+.trophy {
+  position: absolute;
+  left: 57%;
+  top: 12%;
+}
